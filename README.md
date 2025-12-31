@@ -1,4 +1,4 @@
-# pagina-web-tic
+
 # Página web interactiva
 
 Página web creada con **HTML, CSS y JavaScript** y alojada en **GitHub Pages** como parte de una tarea académica.

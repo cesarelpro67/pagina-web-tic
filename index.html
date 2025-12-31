@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Página de TIC</title>
+
+  <!-- Fuente de Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&display=swap" rel="stylesheet">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="styles/style.css">
+
+  <!-- JS -->
+  <script src="scripts/main.js" defer></script>
+</head>
+
+<body>
+
+  <header>
+    <h1>El CO₂ y el cambio climático</h1>
+    <p>Un problema global que nos afecta a todos</p>
+  </header>
+
+  <main>
+
+    <!-- Sección informativa -->
+    <section>
+      <h2>¿Qué es el CO₂?</h2>
+      <p>
+        El dióxido de carbono (CO₂) es un gas que se produce principalmente por
+        la quema de combustibles fósiles y es uno de los principales responsables
+        del calentamiento global.
+      </p>
+
+      <!-- Imagen fija adicional -->
+      <img src="images/co2_extra.jpg" alt="Contaminación atmosférica">
+    </section>
+
+    <!-- Intercambio de imágenes -->
+    <section>
+      <h2>Impacto visual del CO₂</h2>
+      <p>Haz clic sobre la imagen para ver su evolución.</p>
+
+      <img id="imagenCO2"
+           src="images/co2_1.jpg"
+           alt="Emisiones de CO2"
+           class="imagen-click">
+    </section>
+
+    <!-- Campo de texto interactivo -->
+    <section>
+      <h2>Concienciación</h2>
+      <input type="text" id="nombreUsuario" placeholder="Escribe tu nombre">
+      <p id="mensajePersonalizado">
+        El cambio climático nos afecta a todos.
+      </p>
+    </section>
+
+    <!-- Objeto en movimiento -->
+    <section>
+      <h2>El planeta en movimiento</h2>
+      <div id="planeta"></div>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>
+      Más información en
+      <a href="https://www.un.org/es/climatechange"
+         target="_blank"
+         title="Página oficial de la ONU sobre cambio climático">
+         Naciones Unidas
+      </a>
+    </p>
+  </footer>
+
+</body>
+</html>

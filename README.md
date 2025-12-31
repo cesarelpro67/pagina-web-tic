@@ -6,7 +6,7 @@ Página web creada con **HTML, CSS y JavaScript** y alojada en **GitHub Pages** 
 ---
 
 ## Enlace a la web
-👉 [https://TUUSUARIO.github.io](https://cesarelpro67.github.io/pagina-web-tic/)
+👉 [https://cesarelpro67.github.io/pagina-web-tic/](https://cesarelpro67.github.io/pagina-web-tic/)
 
 ---
 

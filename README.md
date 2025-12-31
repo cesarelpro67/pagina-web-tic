@@ -28,7 +28,3 @@ Página web creada con **HTML, CSS y JavaScript** y alojada en **GitHub Pages** 
 ## Estética
 Inspirada en: **El CO2 en el cambio climático**.
 
----
-
-## Licencia
-Los recursos no software de este proyecto están distribuidos bajo una licencia **Creative Commons CC BY-NC 4.0**, incluida en el archivo `LICENSE`.
